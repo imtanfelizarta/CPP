@@ -5,7 +5,7 @@
 	
 	PROJECT: SIMPLE GRADING SYTEM
 	VERSION: 09.2020
-	https://github.com/tanfelizarta/CPP/grading-system/
+	https://github.com/imtanfelizarta/CPP.git
 
 **************************************************************************************/
 
